@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.exe
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.deps.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.dll
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.pdb
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.dll
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.pdb
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\bin\Debug\netcoreapp3.1\Deposits.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Deposits\obj\Debug\netcoreapp3.1\Deposits.genruntimeconfig.cache

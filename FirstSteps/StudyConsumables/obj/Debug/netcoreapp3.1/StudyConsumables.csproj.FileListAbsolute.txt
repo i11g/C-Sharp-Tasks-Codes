@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\bin\Debug\netcoreapp3.1\StudyConsumables.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\StudyConsumables\obj\Debug\netcoreapp3.1\StudyConsumables.genruntimeconfig.cache

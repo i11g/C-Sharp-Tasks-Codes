@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\bin\Debug\netcoreapp3.1\Literature.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Literature\obj\Debug\netcoreapp3.1\Literature.genruntimeconfig.cache

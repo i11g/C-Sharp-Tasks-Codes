@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.exe
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.deps.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.dll
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\bin\Debug\netcoreapp3.1\RadianConventor.pdb
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.dll
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.pdb
+C:\Users\Admin\Desktop\SoftUni\FirstSteps\RadianConventor\obj\Debug\netcoreapp3.1\RadianConventor.genruntimeconfig.cache

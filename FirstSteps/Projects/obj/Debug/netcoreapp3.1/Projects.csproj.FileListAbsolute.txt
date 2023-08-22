@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\bin\Debug\netcoreapp3.1\Projects.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Projects\obj\Debug\netcoreapp3.1\Projects.genruntimeconfig.cache

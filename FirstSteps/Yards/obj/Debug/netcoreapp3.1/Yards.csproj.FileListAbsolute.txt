@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\bin\Debug\netcoreapp3.1\Yards.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\FirstSteps\Yards\obj\Debug\netcoreapp3.1\Yards.genruntimeconfig.cache
