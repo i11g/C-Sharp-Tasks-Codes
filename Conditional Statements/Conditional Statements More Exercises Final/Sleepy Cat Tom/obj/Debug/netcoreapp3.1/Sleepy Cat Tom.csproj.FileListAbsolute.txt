@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\bin\Debug\netcoreapp3.1\Sleepy Cat Tom.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Sleepy Cat Tom\obj\Debug\netcoreapp3.1\Sleepy Cat Tom.genruntimeconfig.cache

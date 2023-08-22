@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.exe
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.deps.json
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.runtimeconfig.json
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.dll
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\bin\Debug\netcoreapp3.1\Seconds.pdb
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.dll
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.pdb
+C:\Users\Admin\Desktop\SoftUni\ConfitionalStatements\Seconds\obj\Debug\netcoreapp3.1\Seconds.genruntimeconfig.cache

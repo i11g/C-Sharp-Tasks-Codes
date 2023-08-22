@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\bin\Debug\netcoreapp3.1\LunchTime.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\LunchTime\obj\Debug\netcoreapp3.1\LunchTime.genruntimeconfig.cache

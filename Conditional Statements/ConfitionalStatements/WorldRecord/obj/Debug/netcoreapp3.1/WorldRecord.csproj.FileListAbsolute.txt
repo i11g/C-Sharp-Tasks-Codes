@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.genruntimeconfig.cache

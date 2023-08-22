@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\bin\Debug\netcoreapp3.1\Match.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Match\obj\Debug\netcoreapp3.1\Match.genruntimeconfig.cache

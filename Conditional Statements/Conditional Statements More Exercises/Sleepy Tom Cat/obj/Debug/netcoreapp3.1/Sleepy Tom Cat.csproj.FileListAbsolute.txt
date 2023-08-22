@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\bin\Debug\netcoreapp3.1\Sleepy Tom Cat.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Sleepy Tom Cat\obj\Debug\netcoreapp3.1\Sleepy Tom Cat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\bin\Debug\netcoreapp3.1\Greater Number.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Greater Number\obj\Debug\netcoreapp3.1\Greater Number.genruntimeconfig.cache

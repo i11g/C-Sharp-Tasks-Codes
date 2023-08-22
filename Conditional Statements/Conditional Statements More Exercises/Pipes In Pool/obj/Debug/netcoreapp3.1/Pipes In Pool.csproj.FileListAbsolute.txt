@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\bin\Debug\netcoreapp3.1\Pipes In Pool.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises\Pipes In Pool\obj\Debug\netcoreapp3.1\Pipes In Pool.genruntimeconfig.cache

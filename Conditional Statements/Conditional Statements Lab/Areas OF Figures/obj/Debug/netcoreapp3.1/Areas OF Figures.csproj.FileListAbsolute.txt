@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\bin\Debug\netcoreapp3.1\Areas OF Figures.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Areas OF Figures\obj\Debug\netcoreapp3.1\Areas OF Figures.genruntimeconfig.cache

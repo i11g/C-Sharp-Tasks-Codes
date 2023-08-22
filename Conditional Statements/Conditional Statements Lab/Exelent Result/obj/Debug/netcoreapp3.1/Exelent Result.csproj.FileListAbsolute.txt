@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\bin\Debug\netcoreapp3.1\Exelent Result.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Exelent Result\obj\Debug\netcoreapp3.1\Exelent Result.genruntimeconfig.cache

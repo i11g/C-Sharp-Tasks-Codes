@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\bin\Debug\netcoreapp3.1\ShopBabyToys.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\ShopBabyToys\obj\Debug\netcoreapp3.1\ShopBabyToys.genruntimeconfig.cache

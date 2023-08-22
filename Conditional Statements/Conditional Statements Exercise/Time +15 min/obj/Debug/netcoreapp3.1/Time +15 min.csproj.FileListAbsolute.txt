@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\bin\Debug\netcoreapp3.1\Time +15 min.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Time +15 min\obj\Debug\netcoreapp3.1\Time +15 min.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\bin\Debug\netcoreapp3.1\Time.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\ConfitionalStatements\Time\obj\Debug\netcoreapp3.1\Time.genruntimeconfig.cache

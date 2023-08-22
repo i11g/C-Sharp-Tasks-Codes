@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\bin\Debug\netcoreapp3.1\Sum OF Second.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Sum OF Second\obj\Debug\netcoreapp3.1\Sum OF Second.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\bin\Debug\netcoreapp3.1\Flower Shop.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Flower Shop\obj\Debug\netcoreapp3.1\Flower Shop.genruntimeconfig.cache

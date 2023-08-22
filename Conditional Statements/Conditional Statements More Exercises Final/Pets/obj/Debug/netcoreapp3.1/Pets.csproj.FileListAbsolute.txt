@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Lab\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.genruntimeconfig.cache

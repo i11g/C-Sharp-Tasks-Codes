@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\bin\Debug\netcoreapp3.1\Pipes in Pool.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements More Exercises Final\Pipes in Pool\obj\Debug\netcoreapp3.1\Pipes in Pool.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\bin\Debug\netcoreapp3.1\Godzila.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Godzila\obj\Debug\netcoreapp3.1\Godzila.genruntimeconfig.cache

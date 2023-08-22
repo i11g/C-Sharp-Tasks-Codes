@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\bin\Debug\netcoreapp3.1\World Record.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\World Record\obj\Debug\netcoreapp3.1\World Record.genruntimeconfig.cache

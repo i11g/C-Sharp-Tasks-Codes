@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\bin\Debug\netcoreapp3.1\Shoping.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Exercise\Shoping\obj\Debug\netcoreapp3.1\Shoping.genruntimeconfig.cache

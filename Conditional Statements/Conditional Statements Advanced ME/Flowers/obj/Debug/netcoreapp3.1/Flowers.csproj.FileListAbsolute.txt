@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.exe
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.deps.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\bin\Debug\netcoreapp3.1\Flowers.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.dll
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.pdb
+C:\Users\Admin\Desktop\Visual Studio Prog\Conditional Statements Advanced ME\Flowers\obj\Debug\netcoreapp3.1\Flowers.genruntimeconfig.cache
